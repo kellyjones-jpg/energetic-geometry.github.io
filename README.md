@@ -1,1 +1,1 @@
-# energetic-geometry.github.io
+# Energetic Geometry
